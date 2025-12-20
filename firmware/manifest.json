@@ -1,4 +1,7 @@
 {
-  "version": "1.2.7",
-  "filename": "abrobot-1.2.7.bin"
+  "version": "1.2.9",
+  "filename": "abrobot-1.2.9.bin",
+  "sha256": "5c612690613186f19dd11542a8f95930d97e941565c7b70f7dd1c16c787f0d33",
+  "merged_filename": "abrobot-1.2.9.merged.bin",
+  "merged_sha256": "64313c68342143925c5e9db0e3b96c348c44e9a596bc2e379ed521dc0dd82802"
 }
