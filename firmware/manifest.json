@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "filename": "abrobot-1.3.0.bin",
-  "sha256": "6ebb013676990f2f92b9af5773125ee9eeb3c6065d9e648af1fae4b20166a7a7",
-  "merged_filename": "abrobot-1.3.0.merged.bin",
-  "merged_sha256": "f67a9cd31909ddc39ab6be0407a507c20c04fba27b2ec59d00b5699c16666a03"
+  "version": "1.4.0",
+  "filename": "guardian-1.4.0.bin",
+  "sha256": "448bb752b9424d17a55c3c3bec8ff75156a2dfeb8ceb3ded04a4e4e5df6a6448",
+  "merged_filename": "guardian-1.4.0.merged.bin",
+  "merged_sha256": "24e9833880ced593cfe7eb1e9ca923d7ca04c8d8ead500cbd3f2c8a800b4f43c"
 }
