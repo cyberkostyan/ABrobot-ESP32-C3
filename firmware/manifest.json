@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "filename": "guardian-1.4.0.bin",
-  "sha256": "d214520200fa2f92e02f57911225615ca88b6ef4d525f3866691801bee45a4c2",
-  "merged_filename": "guardian-1.4.0.merged.bin",
-  "merged_sha256": "e2cac241728d3ea4cbc078c5f282c3819fc6561afda013a7474597802f864d74"
+  "version": "1.4.1",
+  "filename": "guardian-1.4.1.bin",
+  "sha256": "8f9863c27a77adcaa3237e45171dc56e6f9cafe21cc7c7d2b2f00801af2e3386",
+  "merged_filename": "guardian-1.4.1.merged.bin",
+  "merged_sha256": "913117649faa65a6ff2a7eb555dccd218f2e8f5a2a0350d9894125e09b9c4653"
 }
